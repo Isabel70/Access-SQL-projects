@@ -1,5 +1,4 @@
-# Access-SQL-projects
-Run own business of musical instruments
+# Run a business of musical instruments - SQL ACCESS PROJECT
 
 
 The business we created the database for is a Music Instruments store.
