@@ -9,10 +9,13 @@ ernal parties; the vendors and customers.  The business has multiple vendors, ea
 3.      Woodwinds
 4.      Keyboards
 
-Question 1: Create a database for musical instruments merchandising business
-Question 2: Explain each table and its function.
-Question 3: Build a Entity Relationship Diagram according to the database created 
-Question 4: Writing the following SQL queries. 
+-Question 1: Create a database for musical instruments merchandising business.
+
+-Question 2: Explain each table and its function.
+
+-Question 3: Build a Entity Relationship Diagram according to the database created. 
+
+-Question 4: Writing the following SQL queries. 
 
 a.	Sales revenue for the month of march ( 2 tables) (Invoice line and sale)
 b. COGS for the month of march (2 tables) (purchase line and purchase)
