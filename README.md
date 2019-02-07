@@ -1,5 +1,5 @@
 # Access-SQL-projects
-Run own business of musical instruments
+###Run own business of musical instruments
 
 
 The business we created the database for is a Music Instruments store. Initially we wanted to create a database for “Accent Music” which is a famous music instruments store in Delaware but after contacting them through email I found out that they already have a well-developed database, so instead we decided to create our own business based on “Accent Music”.
